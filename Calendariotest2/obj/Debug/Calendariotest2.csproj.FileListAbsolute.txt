@@ -1,0 +1,14 @@
+C:\Users\thiag\source\repos\Calendariotest2\bin\Debug\Calendariotest2.exe.config
+C:\Users\thiag\source\repos\Calendariotest2\bin\Debug\Calendariotest2.exe
+C:\Users\thiag\source\repos\Calendariotest2\bin\Debug\Calendariotest2.pdb
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.Form1.resources
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.Properties.Resources.resources
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.UserControlBlanks.resources
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.UserControlDays.resources
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.exe
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.pdb
+C:\Users\thiag\source\repos\Calendariotest2\obj\Debug\Calendariotest2.eventform.resources
+C:\Users\thiag\source\repos\Calendariotest2\bin\Debug\dbcalendario.accdb
